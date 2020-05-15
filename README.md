@@ -21,6 +21,19 @@ sit covered for 20 minutes to an hour to hydrate the dough
 divide the dough into 3 portions (should be ~220g each) and gently fold each into a ball
 
 refrigerate for 24-72 hours
+
+## sourdough
+
+**ingredients**
+
+- 227g sourdough starter
+- 113g likewarm water
+- 298g unbleached AP flour
+- 7g brown sugar, honey, or agave syrup
+- 1g (1/2t) instant yeast
+- 1t kosher salt
+
+Follow above directions
  
 ## sauce
 
