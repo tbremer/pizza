@@ -23,7 +23,7 @@
 **Ingredients**
 
 - 227g sourdough starter
-- 113g likewarm water
+- 113g lukewarm water
 - 298g unbleached AP flour
 - 7g brown sugar, honey, or agave syrup
 - 1g (&frac12;t) instant yeast
