@@ -2,9 +2,9 @@
 
 ![pizza](pizza.png)
 
-## dough
+## Dough
 
-ingredients
+**Ingredients**
 
 - 400g King Arthur bread flour
 - 240g water (~60%)
@@ -12,19 +12,15 @@ ingredients
 - 10g agave syrup / honey / sugar
 - 3g instant yeast
 
-combine flour salt & yeast in a large bowl
+1. Combine flour, salt, & yeast in a large bowl.
+1. Dissolve the sugar into the water and combine with dry ingredients by hand until the mixture forms a shaggy dough.
+1. Sit covered for twenty - sixty minutes to hydrate the dough.
+1. Divide the dough into 3 portions (should be ~220g each) and gently fold each into a ball
+1. refrigerate for 24-72 hours.
 
-dissolve the sugar into the water and combine with dry ingredients by hand until the mixture forms a shaggy dough
+## Sourdough
 
-sit covered for 20 minutes to an hour to hydrate the dough
-
-divide the dough into 3 portions (should be ~220g each) and gently fold each into a ball
-
-refrigerate for 24-72 hours
-
-## sourdough
-
-**ingredients**
+**Ingredients**
 
 - 227g sourdough starter
 - 113g likewarm water
@@ -33,7 +29,11 @@ refrigerate for 24-72 hours
 - 1g (1/2t) instant yeast
 - 1t kosher salt
 
-Follow above directions
+1. Combine flour, salt, & yeast in a large bowl.
+1. Dissolve the sugar into the water and combine with dry ingredients by hand until the mixture forms a shaggy dough.
+1. Sit covered for twenty - sixty minutes to hydrate the dough.
+1. Divide the dough into 2 portions (should be ~220g each) and gently fold each into a ball
+1. refrigerate for 24-72 hours.
  
 ## sauce
 
